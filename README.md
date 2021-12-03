@@ -18,7 +18,7 @@ on housing and residential communities. We choose New The NYC dataset contains 3
 
 
 
-![variables](http://m.qpic.cn/psc?/V13deus81tRRMD/45NBuzDIW489QBoVep5mccUo9Go6MyHhZbvVZy2oVjkVMiZXQketbzbB4B1.8NNVwAukP41.CeL4DAEeS4gwxWr0rpG5kXNZ70qIubJZy8w!/b&bo=OgNVAQAAAAADF18!&rf=viewer_4)
+![variables](http://m.qpic.cn/psc?/V13deus81tRRMD/45NBuzDIW489QBoVep5mcYYCpg8M.OCMxX4iLowMhOPgWwBe8hYBEobq2uByMc0Mx2tCyl.*1PrR8GiaeF7n4RelJfP0ms26822YYXmeSFc!/b&bo=TwTHAQAAAAADJ48!&rf=viewer_4)
 
 
 This is a complex dataset including text(space, neighbourhood,transit,etc.), time(host_since,etc.), numeric(latitude, longitude, price, etc.) and logical(host_is_super_host, host_identity_verified) variables. Ignoring some useless variables such as url and zip code, we could conclude that all variables could be divided into two scopes:
